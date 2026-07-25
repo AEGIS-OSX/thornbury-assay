@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784938044639-logo.png",
+    "alt": "A minimalist, flat vector logo for Thornbury Assay featuring a geometric mark in muted brass #C8A96E against a #0D0F12 background. The design emphasizes industrial precision and technical authority, a",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784937902385-hero.png",
+    "alt": "A macro shot of a machined aerospace alloy coupon on brushed steel, utilizing cold 6000K lighting and the project's specific industrial palette to establish a mood of metrological precision.",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784937909186-feature_1.png",
+    "alt": "A macro shot of a precision-machined aerospace coupon and micrometer on a brushed steel surface. The cold, sterile lighting and industrial palette reinforce the 'certified precision' mood of the Thorn",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784937890347-feature_2.png",
+    "alt": "A clinical, top-down macro shot of a stainless steel chain-of-custody tag on a brushed aluminum case. The image reinforces the 'chain-of-custody tracking' feature through cold-room precision, industri",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784937911149-feature_3.png",
+    "alt": "A macro shot of a certified laboratory document on a brushed steel surface, featuring a muted brass #C8A96E certification stamp. The image reinforces the 'certified result delivery' capability through",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/thornbury-assay/cleo/1784938158378-social_proof.png",
+    "alt": "A macro shot of a precision micrometer on a certified chain-of-custody document. The image uses the #0D0F12 canvas color for shadows and a muted brass #C8A96E for the certification stamp, embodying th",
     "width": 1200,
     "height": 800
   }
